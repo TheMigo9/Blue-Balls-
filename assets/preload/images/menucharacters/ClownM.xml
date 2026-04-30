@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ClownB.png">
+<SubTexture name="ClownB0000" x="0" y="944" width="811" height="915" frameX="-12" frameY="-8" frameWidth="885" frameHeight="953" />
+</TextureAtlas>

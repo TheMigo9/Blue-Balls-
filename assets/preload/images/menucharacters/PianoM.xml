@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="PianoM.png">
+<SubTexture name="IDLE0000" x="1215" y="0" width="529" height="733" frameX="-57" frameY="0" frameWidth="643" frameHeight="761" />
+</TextureAtlas>

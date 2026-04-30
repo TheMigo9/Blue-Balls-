@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FirstTrollge3.png">
+<SubTexture name="FirstIDLE0000" x="0" y="0" width="964" height="857" frameX="-69" frameY="-101" frameWidth="1104" frameHeight="969" />
+</TextureAtlas>
