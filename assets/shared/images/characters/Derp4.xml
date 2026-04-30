@@ -1,0 +1,7 @@
+<TextureAtlas imagePath="Derp4.png">
+<SubTexture name="DOWN0000" x="92" y="80" width="1688" height="1585" frameX="-488" frameY="-2" frameWidth="2197" frameHeight="1585"/>
+<SubTexture name="IDLE0000" x="74" y="1837" width="1348" height="1708" frameX="-71" frameY="-16" frameWidth="1433" frameHeight="1725"/>
+<SubTexture name="LEFT0000" x="2166" y="70" width="1716" height="1717" frameX="-215" frameY="-350" frameWidth="1923" frameHeight="1967"/>
+<SubTexture name="RIGHT0000" x="2166" y="70" width="1716" height="1717" frameX="-215" frameY="-650" frameWidth="1923" frameHeight="1967"/>
+<SubTexture name="UP0000" x="1559" y="1976" width="2465" height="1753" frameX="-57" frameY="-618" frameWidth="2587" frameHeight="2370"/>
+</TextureAtlas>

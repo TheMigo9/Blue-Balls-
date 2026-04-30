@@ -1,0 +1,25 @@
+<TextureAtlas imagePath="Derp3.png">
+<SubTexture name="DOWN0000" x="0" y="0" width="576" height="1002" frameX="-147" frameY="-2" frameWidth="932" frameHeight="1006"/>
+<SubTexture name="DOWN0001" x="0" y="0" width="576" height="1002" frameX="-147" frameY="-2" frameWidth="932" frameHeight="1006"/>
+<SubTexture name="DOWN0002" x="576" y="0" width="698" height="946" frameX="-154" frameY="-58" frameWidth="932" frameHeight="1006"/>
+<SubTexture name="DOWN0003" x="576" y="0" width="698" height="946" frameX="-154" frameY="-58" frameWidth="932" frameHeight="1006"/>
+<SubTexture name="IDLE0000" x="1274" y="0" width="507" height="1054" frameX="-2" frameY="-4" frameWidth="511" frameHeight="1060"/>
+<SubTexture name="IDLE0001" x="1781" y="0" width="499" height="1056" frameX="-8" frameY="-2" frameWidth="511" frameHeight="1060"/>
+<SubTexture name="IDLE0002" x="2280" y="0" width="490" height="1056" frameX="-19" frameY="-2" frameWidth="511" frameHeight="1060"/>
+<SubTexture name="IDLE0003" x="0" y="1056" width="499" height="1056" frameX="-8" frameY="-2" frameWidth="511" frameHeight="1060"/>
+<SubTexture name="LEFT0000" x="499" y="1056" width="791" height="1074" frameX="-496" frameY="-7" frameWidth="1367" frameHeight="1083"/>
+<SubTexture name="LEFT0001" x="499" y="1056" width="791" height="1074" frameX="-496" frameY="-7" frameWidth="1367" frameHeight="1083"/>
+<SubTexture name="LEFT0002" x="1290" y="1056" width="1085" height="1077" frameX="-277" frameY="-4" frameWidth="1367" frameHeight="1083"/>
+<SubTexture name="LEFT0003" x="1290" y="1056" width="1085" height="1077" frameX="-277" frameY="-4" frameWidth="1367" frameHeight="1083"/>
+<SubTexture name="RIGHT0000" x="2770" y="0" width="808" height="1072" frameX="-385" frameY="-233" frameWidth="1424" frameHeight="1307"/>
+<SubTexture name="RIGHT0001" x="2770" y="0" width="808" height="1072" frameX="-385" frameY="-233" frameWidth="1424" frameHeight="1307"/>
+<SubTexture name="RIGHT0002" x="2375" y="1072" width="1209" height="1070" frameX="-130" frameY="-235" frameWidth="1424" frameHeight="1307"/>
+<SubTexture name="RIGHT0003" x="2375" y="1072" width="1209" height="1070" frameX="-130" frameY="-235" frameWidth="1424" frameHeight="1307"/>
+<SubTexture name="RIGHT0004" x="2375" y="1072" width="1209" height="1070" frameX="-130" frameY="-235" frameWidth="1424" frameHeight="1307"/>
+<SubTexture name="RIGHT0005" x="2375" y="1072" width="1209" height="1070" frameX="-130" frameY="-235" frameWidth="1424" frameHeight="1307"/>
+<SubTexture name="UP0000" x="0" y="2142" width="1062" height="718" rotated="true" frameX="-93" frameY="-172" frameWidth="936" frameHeight="1236"/>
+<SubTexture name="UP0001" x="0" y="2142" width="1062" height="718" rotated="true" frameX="-93" frameY="-172" frameWidth="936" frameHeight="1236"/>
+<SubTexture name="UP0002" x="1062" y="2142" width="1092" height="820" rotated="true" frameX="-53" frameY="-142" frameWidth="936" frameHeight="1236"/>
+<SubTexture name="UP0003" x="1062" y="2142" width="1092" height="820" rotated="true" frameX="-53" frameY="-142" frameWidth="936" frameHeight="1236"/>
+<SubTexture name="UP0004" x="1062" y="2142" width="1092" height="820" rotated="true" frameX="-53" frameY="-142" frameWidth="936" frameHeight="1236"/>
+</TextureAtlas>

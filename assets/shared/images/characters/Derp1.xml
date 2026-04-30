@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Derp1.png">
+<SubTexture name="IDLE0000" x="418" y="0" width="215" height="599" frameX="0" frameY="-2" frameWidth="216" frameHeight="601" />
+<SubTexture name="WHY0000" x="0" y="0" width="209" height="606" frameX="0" frameY="-1" frameWidth="210" frameHeight="607" />
+<SubTexture name="WHY0001" x="209" y="0" width="209" height="606" frameX="0" frameY="-1" frameWidth="210" frameHeight="607" />
+<SubTexture name="WHY0002" x="209" y="0" width="209" height="606" frameX="0" frameY="-1" frameWidth="210" frameHeight="607" />
+</TextureAtlas>
