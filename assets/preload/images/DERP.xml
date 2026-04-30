@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DERP.png"><SubTexture name="DERP0000" x="647" y="568" width="49" height="207" frameX="-880" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0001" x="0" y="0" width="158" height="568" frameX="-771" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0002" x="158" y="0" width="282" height="568" frameX="-647" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0003" x="440" y="0" width="418" height="568" frameX="-511" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0004" x="858" y="0" width="637" height="440" frameX="-292" frameY="-104" frameWidth="944" frameHeight="598" />
+<SubTexture name="DERP0005" x="0" y="568" width="647" height="440" frameX="-282" frameY="-97" frameWidth="944" frameHeight="598" />
+</TextureAtlas>

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DarkClown.png"><SubTexture name="DarkClown DarkClown0000" x="1465" y="0" width="778" height="859" frameX="0" frameY="0" frameWidth="778" frameHeight="859" />
+<SubTexture name="DarkClown DarkClown0001" x="0" y="0" width="744" height="876" frameX="0" frameY="0" frameWidth="744" frameHeight="876" />
+<SubTexture name="DarkClown DarkClown0002" x="744" y="0" width="721" height="866" frameX="0" frameY="0" frameWidth="721" frameHeight="866" />
+<SubTexture name="DarkClown DarkClown0003" x="0" y="876" width="738" height="852" frameX="0" frameY="0" frameWidth="738" frameHeight="852" />
+<SubTexture name="DarkClown DarkClown0004" x="738" y="876" width="744" height="840" frameX="0" frameY="0" frameWidth="744" frameHeight="840" />
+</TextureAtlas>

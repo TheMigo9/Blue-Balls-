@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="derpina.png"><SubTexture name="derpina0000" x="471" y="568" width="274" height="129" frameX="-304" frameY="-453" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0001" x="0" y="0" width="431" height="568" frameX="-249" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0002" x="0" y="568" width="471" height="565" frameX="-234" frameY="-17" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0003" x="431" y="0" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+<SubTexture name="derpina0004" x="1021" y="0" width="590" height="568" frameX="-182" frameY="-14" frameWidth="944" frameHeight="598" />
+</TextureAtlas>
