@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Minion1.png">
+<SubTexture name="MinionAttack0000" x="827" y="868" width="423" height="397" frameX="-43" frameY="0" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionFail0000" x="1768" y="0" width="371" height="374" frameX="-73" frameY="-26" frameWidth="467" frameHeight="435" />
+<SubTexture name="MinionIdle0000" x="0" y="2043" width="465" height="360" frameX="-1" frameY="-60" frameWidth="467" frameHeight="435" />
+</TextureAtlas>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HP GREMLIN.png">
+<!-- Created with Kades Custom Converter -->
+<SubTexture name="HP Gremlin ANIMATION0000" x="0" y="0" width="383" height="401" frameX="-54" frameY="-415" frameWidth="915" frameHeight="816"/>
+</TextureAtlas>
