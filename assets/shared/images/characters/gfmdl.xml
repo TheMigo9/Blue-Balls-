@@ -1,0 +1,15 @@
+﻿<TextureAtlas imagePath="Girl3.png">
+<!--  Created with Adobe Animate version 21.0.0.35450  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="Down0000" x="1474" y="0" width="739" height="769"/>
+<SubTexture name="IDLE0000" x="0" y="769" width="751" height="764"/>
+<SubTexture name="IDLE0001" x="751" y="769" width="751" height="764"/>
+<SubTexture name="IDLE0002" x="1502" y="769" width="751" height="764"/>
+<SubTexture name="IDLE0003" x="0" y="1533" width="751" height="764"/>
+<SubTexture name="IDLE0004" x="751" y="1533" width="751" height="764"/>
+<SubTexture name="Left0000" x="1502" y="1533" width="740" height="754"/>
+<SubTexture name="Right0000" x="2213" y="0" width="725" height="757"/>
+<SubTexture name="SMILE0000" x="0" y="0" width="737" height="754"/>
+<SubTexture name="Up0000" x="2253" y="757" width="739" height="769"/>
+<SubTexture name="WHITE0000" x="737" y="0" width="737" height="754"/>
+</TextureAtlas>

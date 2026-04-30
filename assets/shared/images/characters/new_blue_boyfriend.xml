@@ -1,0 +1,17 @@
+﻿<TextureAtlas imagePath="new_blue_boyfriend.png">
+<!--  Created with Adobe Animate version 20.5.1.31044  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="BF NOTE DOWN0000" x="0" y="0" width="347" height="368"/>
+<SubTexture name="BF NOTE DOWN0001" x="347" y="0" width="347" height="368"/>
+<SubTexture name="BF NOTE LEFT0000" x="397" y="826" width="381" height="415"/>
+<SubTexture name="BF NOTE LEFT0001" x="778" y="826" width="381" height="415"/>
+<SubTexture name="BF NOTE RIGHT0000" x="1191" y="0" width="409" height="414"/>
+<SubTexture name="BF NOTE RIGHT0001" x="1191" y="414" width="409" height="414"/>
+<SubTexture name="BF NOTE UP0000" x="1159" y="828" width="387" height="443"/>
+<SubTexture name="BF NOTE UP0001" x="0" y="1271" width="442" height="386" rotated="true"/>
+<SubTexture name="BF idle dance0000" x="694" y="0" width="397" height="413"/>
+<SubTexture name="BF idle dance0001" x="0" y="413" width="397" height="413"/>
+<SubTexture name="BF idle dance0002" x="397" y="413" width="397" height="413"/>
+<SubTexture name="BF idle dance0003" x="794" y="413" width="397" height="413"/>
+<SubTexture name="BF idle dance0004" x="0" y="826" width="397" height="413"/>
+</TextureAtlas>
