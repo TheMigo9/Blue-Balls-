@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="trollgephase4.png"><SubTexture name="IncidentSadSIdle0000" x="0" y="0" width="503" height="629" frameX="0" frameY="0" frameWidth="503" frameHeight="629" />
+<SubTexture name="IncidentSadSing0000" x="503" y="0" width="504" height="629" frameX="0" frameY="0" frameWidth="504" frameHeight="629" />
+<SubTexture name="IncidentSadSing0001" x="1510" y="0" width="504" height="619" frameX="0" frameY="-5" frameWidth="504" frameHeight="629" />
+<SubTexture name="IncidentSadSing0002" x="1510" y="619" width="504" height="619" frameX="0" frameY="-5" frameWidth="504" frameHeight="629" />
+<SubTexture name="IncidentSadSmile0000" x="1007" y="0" width="503" height="629" frameX="0" frameY="0" frameWidth="503" frameHeight="629" />
+<SubTexture name="IncidentSadSpeaking0000" x="503" y="0" width="504" height="629" frameX="0" frameY="0" frameWidth="504" frameHeight="629" />
+<SubTexture name="IncidentSadSpeaking0001" x="0" y="629" width="504" height="620" frameX="0" frameY="-5" frameWidth="504" frameHeight="629" />
+<SubTexture name="IncidentSadSpeaking0002" x="504" y="629" width="504" height="620" frameX="0" frameY="-5" frameWidth="504" frameHeight="629" />
+</TextureAtlas>

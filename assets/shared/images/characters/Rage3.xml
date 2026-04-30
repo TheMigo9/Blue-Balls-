@@ -1,0 +1,28 @@
+﻿<TextureAtlas imagePath="3TrollgeRage.png">
+<!--  Created with Adobe Animate version 21.0.0.35450  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="3TrollgeRageDown0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="3TrollgeRageIdle0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="3TrollgeRageLeft0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="3TrollgeRageRight0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="3TrollgeRageUp0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="FirstAnim0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0000" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0001" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0002" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0003" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0004" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0005" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0006" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0007" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0008" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0009" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0010" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0011" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0012" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0013" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0014" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0015" x="0" y="0" width="482" height="913"/>
+<SubTexture name="SecondAnim0016" x="0" y="0" width="482" height="913"/>
+<SubTexture name="ThirdAnim0000" x="482" y="0" width="482" height="913"/>
+</TextureAtlas>

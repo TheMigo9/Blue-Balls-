@@ -1,0 +1,21 @@
+﻿<TextureAtlas imagePath="trollge.png">
+<!--  Created with Adobe Animate version 20.5.1.31044  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="TrollgeDown0000" x="0" y="0" width="506" height="624" frameX="-12" frameY="-24" frameWidth="522" frameHeight="648"/>
+<SubTexture name="TrollgeDown0001" x="0" y="0" width="506" height="624" frameX="-12" frameY="-24" frameWidth="522" frameHeight="648"/>
+<SubTexture name="TrollgeDown0002" x="506" y="0" width="522" height="646" frameX="0" frameY="0" frameWidth="522" frameHeight="648"/>
+<SubTexture name="TrollgeIdle0000" x="1028" y="0" width="474" height="674" frameX="0" frameY="-34" frameWidth="476" frameHeight="709"/>
+<SubTexture name="TrollgeIdle0001" x="1502" y="0" width="453" height="683" frameX="-23" frameY="-26" frameWidth="476" frameHeight="709"/>
+<SubTexture name="TrollgeIdle0002" x="0" y="683" width="425" height="691" frameX="-48" frameY="-17" frameWidth="476" frameHeight="709"/>
+<SubTexture name="TrollgeIdle0003" x="425" y="683" width="408" height="704" frameX="-48" frameY="-4" frameWidth="476" frameHeight="709"/>
+<SubTexture name="TrollgeIdle0004" x="833" y="683" width="404" height="708" frameX="-46" frameY="0" frameWidth="476" frameHeight="709"/>
+<SubTexture name="TrollgeLeft0000" x="1237" y="683" width="449" height="696" frameX="0" frameY="-10" frameWidth="481" frameHeight="706"/>
+<SubTexture name="TrollgeLeft0001" x="1237" y="683" width="449" height="696" frameX="0" frameY="-10" frameWidth="481" frameHeight="706"/>
+<SubTexture name="TrollgeLeft0002" x="1686" y="683" width="442" height="706" frameX="-39" frameY="0" frameWidth="481" frameHeight="706"/>
+<SubTexture name="TrollgeRight0000" x="0" y="1389" width="686" height="668" rotated="true" frameX="-2" frameY="-16" frameWidth="671" frameHeight="705"/>
+<SubTexture name="TrollgeRight0001" x="0" y="1389" width="686" height="668" rotated="true" frameX="-2" frameY="-16" frameWidth="671" frameHeight="705"/>
+<SubTexture name="TrollgeRight0002" x="1237" y="1389" width="704" height="650" rotated="true" frameX="-2" frameY="0" frameWidth="671" frameHeight="705"/>
+<SubTexture name="TrollgeUp0000" x="2128" y="0" width="696" height="717" frameX="0" frameY="0" frameWidth="713" frameHeight="717"/>
+<SubTexture name="TrollgeUp0001" x="2128" y="0" width="696" height="717" frameX="0" frameY="0" frameWidth="713" frameHeight="717"/>
+<SubTexture name="TrollgeUp0002" x="2128" y="717" width="693" height="712" frameX="-20" frameY="-1" frameWidth="713" frameHeight="717"/>
+</TextureAtlas>

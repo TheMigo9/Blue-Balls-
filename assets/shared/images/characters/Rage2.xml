@@ -1,0 +1,21 @@
+﻿<TextureAtlas imagePath="2TrollgeRage.png">
+<!--  Created with Adobe Animate version 21.0.0.35450  -->
+<!--  http://www.adobe.com/products/animate.html  -->
+<SubTexture name="2TrollgeRageDown0000" x="0" y="0" width="421" height="560"/>
+<SubTexture name="2TrollgeRageDown0001" x="0" y="0" width="421" height="560"/>
+<SubTexture name="2TrollgeRageDown0002" x="421" y="0" width="421" height="560"/>
+<SubTexture name="2TrollgeRageIdle0000" x="842" y="0" width="343" height="583"/>
+<SubTexture name="2TrollgeRageIdle0001" x="1185" y="0" width="343" height="583"/>
+<SubTexture name="2TrollgeRageIdle0002" x="0" y="583" width="343" height="583"/>
+<SubTexture name="2TrollgeRageIdle0003" x="343" y="583" width="343" height="583"/>
+<SubTexture name="2TrollgeRageIdle0004" x="686" y="583" width="343" height="583"/>
+<SubTexture name="2TrollgeRageLeft0000" x="1029" y="583" width="298" height="582"/>
+<SubTexture name="2TrollgeRageLeft0001" x="1029" y="583" width="298" height="582"/>
+<SubTexture name="2TrollgeRageLeft0002" x="1327" y="583" width="298" height="582"/>
+<SubTexture name="2TrollgeRageRight0000" x="1029" y="1165" width="517" height="556"/>
+<SubTexture name="2TrollgeRageRight0001" x="1029" y="1165" width="517" height="556"/>
+<SubTexture name="2TrollgeRageRight0002" x="1528" y="0" width="517" height="556"/>
+<SubTexture name="2TrollgeRageUp0000" x="1625" y="556" width="615" height="599"/>
+<SubTexture name="2TrollgeRageUp0001" x="1625" y="556" width="615" height="599"/>
+<SubTexture name="2TrollgeRageUp0002" x="1625" y="1155" width="615" height="599"/>
+</TextureAtlas>
