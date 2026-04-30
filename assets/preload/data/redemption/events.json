@@ -1,0 +1,184 @@
+{
+	"song": {
+		"speed": 1.9,
+		"stage": "redempt",
+		"player1": "bf_sadness",
+		"player2": "Redemption",
+		"player3": null,
+		"events": [
+			[
+				27234.0425531915,
+				[
+					[
+						"Image Flash",
+						"whitte",
+						"0.3"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf_rage2"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf_rage"
+					]
+				]
+			],
+			[
+				40851.0638297872,
+				[
+					[
+						"Play Animation",
+						"1",
+						""
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				44255.3191489362,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					],
+					[
+						"Play Animation",
+						"2",
+						""
+					]
+				]
+			],
+			[
+				47659.5744680851,
+				[
+					[
+						"Play Animation",
+						"3",
+						""
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				49361.7021276596,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					],
+					[
+						"Play Animation",
+						"4",
+						""
+					]
+				]
+			],
+			[
+				51063.8297872341,
+				[
+					[
+						"Play Animation",
+						"5",
+						""
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				51914.8936170213,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					],
+					[
+						"Play Animation",
+						"6",
+						""
+					]
+				]
+			],
+			[
+				52765.9574468085,
+				[
+					[
+						"Play Animation",
+						"6",
+						""
+					],
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				53191.4893617022,
+				[
+					[
+						"Image Flash",
+						"white",
+						"0.3"
+					]
+				]
+			],
+			[
+				53617.0212765958,
+				[
+					[
+						"Image Flash",
+						"whitte",
+						"0.3"
+					]
+				]
+			],
+			[
+				54042.5531914894,
+				[
+					[
+						"Image Flash",
+						"whitte",
+						"0.3"
+					]
+				]
+			],
+			[
+				54468.085106383,
+				[
+					[
+						"Image Flash",
+						"whitte",
+						"0.3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf_sadness",
+		"bpm": 141,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Redemption"
+	}
+}
